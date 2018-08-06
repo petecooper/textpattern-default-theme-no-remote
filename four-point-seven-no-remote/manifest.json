@@ -1,8 +1,8 @@
 {
-  "title": "Four Point Seven - No Remote",
-  "txp-type": "textpattern-theme",
-  "version": "4.7.1",
-  "description": "Modified version of the default theme shipped with Textpattern CMS 4.7. Remote assets are served locally.",
-  "author": "Team Textpattern, modifications by Pete Cooper",
-  "author_uri": "https://github.com/petecooper/textpattern-default-theme-no-remote"
+    "title": "Four Point Seven - No Remote",
+    "version": "4.7.1",
+    "description": "Modified default theme shipped with Textpattern CMS 4.7. Fonts are served locally.",
+    "author": "Team Textpattern, modifications by Pete Cooper",
+    "author_uri": "https://github.com/petecooper/textpattern-default-theme-no-remote",
+    "txp-type": "textpattern-theme"
 }

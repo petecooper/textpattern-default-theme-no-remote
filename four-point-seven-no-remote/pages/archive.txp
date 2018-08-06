@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
     <title><txp:page_title /></title>
 
-    <!-- Localised font stylesheet (replaces Google font API) -->
-	<link rel="stylesheet" href="<txp:page_url type="theme_path" />/themes/four-point-seven-no-remote/styles/fonts.css">
+    <!-- Localised font stylesheet (replaces Google font API below) -->
+    <link rel="stylesheet" href="<txp:page_url type="theme_path" />/styles/fonts.css">
 
-    <!-- Equivalent Google font API -->
+    <!-- Original Google font API -->
     <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i&amp;subset=latin-ext"> -->
 
     <!-- CSS -->
