@@ -64,11 +64,13 @@ Navigate to the Sections panel using Presentation &rarr; Sections.
 
 ![sections panel - preflight](./images/sections-panel-preflight.png)
 
-Check the `default` section checkbox. Select the 'With selected…' dropdown menu and locate the 'Change theme/page/style' entry.
+Check the `default` section checkbox. Locate the 'With selected…' dropdown menu and select the 'Change theme/page/style' entry. Three new inline dropdown menus will appear.
 
-Three new inline dropdown menus will appear. From the 'Theme' dropdown, select 'Four Point Seven - No Remote'. From the 'Page' dropdown, select 'default'. From the 'Style' dropdown, select 'default'. Use the 'Go' button to apply these changes.
+From the 'Theme' dropdown, select 'Four Point Seven - No Remote'. From the 'Page' dropdown, select 'default'. From the 'Style' dropdown, select 'default'. Use the 'Go' button to apply these changes.
 
-For each other section in the Sections list, note the Page and Style column values. Repeat the process above for each section, ensuring the existing Page and Style column values are maintained.
+![sections panel - apply](./images/sections-panel-apply.png)
+
+For each other section in the Sections list, note the Page and Style column values then repeat the 'Change theme/page/style' process above for each section, ensuring the existing Page and Style column values are maintained.
 
 The 'Four Point Seven - No Remote' is now installed and applied.
 
