@@ -30,15 +30,17 @@ If the font is _not_ installed on the user's device, it will be served from the 
 
 ## Installation
 
-* note: this installation walkthrough is intended for English language Textpattern instances, the Textpattern user interface text referred to will differ in non-English languages.
+This installation walkthrough is intended for English language Textpattern instances, the Textpattern user interface text referred to will differ in non-English languages.
 
 Ensure you and your Textpattern site meet the requirements outlined above.
 
-Download the theme as an archive, and extract it to your device.
+Download the theme as an archive, and extract the files to your device.
 
 Navigate to the `themes` directory on your device, and locate the `four-point-seven-no-remote` directory inside.
 
-Navigate to the `themes` directory on your Textpattern server.
+Navigate to the `themes` directory on your Textpattern server with your preferred file uploader.
+
+![themes directory](./images/themes-dir.png)
 
 Upload the `four-point-seven-no-remote` to the `themes` directory on your Textpattern server.
 
@@ -53,6 +55,8 @@ Check the `default` section checkbox. Select the 'With selected…' dropdown men
 Three new inline dropdown menus will appear. From the 'Theme' dropdown, select 'Four Point Seven - No Remote'. From the 'Page' dropdown, select 'default'. From the 'Style' dropdown, select 'default'. Use the 'Go' button to apply these changes.
 
 For each other section in the Sections list, note the Page and Style column values. Repeat the process above for each section, ensuring the existing Page and Style column values are maintained.
+
+The 'Four Point Seven - No Remote' is now installed and applied.
 
 ## Legal
 
