@@ -44,11 +44,17 @@ After the upload has completed, ensure the server directory structure passes the
 
 * the `themes` directory contains a `four-point-seven-no-remote` directory.
 
+![themes contents](./img/themes.png)
+
 * the `four-point-seven-no-remote` directory contains three directories: `forms`, `pages` and `styles`.
 
 * the `forms` and `pages` directories contain the files listed below.
 
+![txp stubs contents](./img/txp-files.png)
+
 * the `styles` directory contain the files listed below.
+
+![styles contents](./img/styles.png)
 
 From the Textpattern admin-side, visit the Themes panel using Presentation &rarr; Themes.
 
