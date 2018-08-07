@@ -30,6 +30,8 @@ If the font is _not_ installed on the user's device, it will be served from the 
 
 ## Installation
 
+* note: this installation walkthrough is intended for English language Textpattern instances, the Textpattern user interface text referred to will differ in non-English languages.
+
 Ensure you and your Textpattern site meet the requirements outlined above.
 
 Download the theme as an archive, and extract it to your device.
@@ -40,26 +42,17 @@ Navigate to the `themes` directory on your Textpattern server.
 
 Upload the `four-point-seven-no-remote` to the `themes` directory on your Textpattern server.
 
-After the upload has completed, ensure the server directory structure passes the following checks. This should be a formality if the upload completed successfully, but if you are new to Textpattern themes this is a useful exercise.
+From the Textpattern admin-side, navigate to the Themes panel using Presentation &rarr; Themes.
 
-* the `themes` directory contains a `four-point-seven-no-remote` directory.
+Select 'Four Point Seven - No Remote' from the 'Import From Disk' dropdown, then select Upload. Confirm the addition of the new theme 'Four Point Seven - No Remote' in the Themes list.
 
-![themes contents](./img/themes.png)
+Navigate to the Sections panel using Presentation &rarr; Sections.
 
-* the `four-point-seven-no-remote` directory contains three directories: `forms`, `pages` and `styles`.
+Check the `default` section checkbox. Select the 'With selected…' dropdown menu and locate the 'Change theme/page/style' entry.
 
-* the `forms` and `pages` directories contain the files listed below.
+Three new inline dropdown menus will appear. From the 'Theme' dropdown, select 'Four Point Seven - No Remote'. From the 'Page' dropdown, select 'default'. From the 'Style' dropdown, select 'default'. Use the 'Go' button to apply these changes.
 
-![txp stubs contents](./img/txp-files.png)
-
-* the `styles` directory contain the files listed below.
-
-![styles contents](./img/styles.png)
-
-From the Textpattern admin-side, visit the Themes panel using Presentation &rarr; Themes.
-
-
-
+For each other section in the Sections list, note the Page and Style column values. Repeat the process above for each section, ensuring the existing Page and Style column values are maintained.
 
 ## Legal
 
