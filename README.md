@@ -46,7 +46,11 @@ Upload the `four-point-seven-no-remote` to the `themes` directory on your Textpa
 
 ![themes -> no remote directory](./images/themes-no-remote-dir.png)
 
+Confirm the contents of the `four-point-seven-no-remote` directory on your device match your Textpattern server. This is usually a formality if your file transfer reports a successful upload.
+
 From the Textpattern admin-side, navigate to the Themes panel using Presentation &rarr; Themes.
+
+![themes panel - preflight](./images/themes-panel-preflight.png)
 
 Select 'Four Point Seven - No Remote' from the 'Import From Disk' dropdown, then select Upload. Confirm the addition of the new theme 'Four Point Seven - No Remote' in the Themes list.
 
