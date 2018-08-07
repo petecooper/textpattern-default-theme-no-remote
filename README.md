@@ -54,13 +54,15 @@ From the Textpattern admin-side, navigate to the Themes panel using Presentation
 
 Locate the 'Import From Disk' dropdown, select 'Four Point Seven - No Remote' then use the Upload button to add it to the available themes.
 
-![themes panel - preflight](./images/themes-panel-upload.png)
+![themes panel - upload](./images/themes-panel-upload.png)
 
 Confirm the addition of the new theme 'Four Point Seven - No Remote' in the Themes list.
 
-![themes panel - preflight](./images/themes-panel-uploaded.png)
+![themes panel - uploaded](./images/themes-panel-uploaded.png)
 
 Navigate to the Sections panel using Presentation &rarr; Sections.
+
+![sections panel - preflight](./images/sections-panel-preflight.png)
 
 Check the `default` section checkbox. Select the 'With selected…' dropdown menu and locate the 'Change theme/page/style' entry.
 
