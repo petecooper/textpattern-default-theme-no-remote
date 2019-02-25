@@ -74,7 +74,7 @@ From the 'Theme' dropdown, select 'Four Point Seven - No Remote'. From the 'Page
 
 For each other section in the Sections list, note the Page and Style column values then repeat the 'Change theme/page/style' process above for each section, ensuring the existing Page and Style column values are maintained.
 
-The 'Four Point Seven - No Remote' is now installed and applied.
+The 'Four Point Seven - No Remote' theme is now installed and applied.
 
 ## Legal
 
