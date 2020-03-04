@@ -1,10 +1,12 @@
+*Please note: this repo is deprecated. Textpattern default theme no longer uses Google Fonts.*
+
 ## Overview
 
-This is a slightly modified version of the [Textpattern CMS default theme](https://github.com/textpattern/textpattern-default-theme). It aims to be visually identical to the original but replace all remote assets with locally-available versions.
+This is a slightly modified version of the [Textpattern CMS default theme](https://github.com/textpattern/textpattern-default-theme) for Textpattern 4.7. It aims to be visually identical to the original but replace all remote assets with locally-available versions.
 
 ### Requirements
 
-* Textpattern 4.7.0 or newer
+* Textpattern 4.7
 * Textpattern Publisher privileges
 * web server upload privileges (to the `themes` directory)
 
